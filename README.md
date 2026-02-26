@@ -1,3 +1,15 @@
+> [!CAUTION]
+> # ⚠️ **WARNING - NON-OFFICIAL REPOSITORY**
+> ## **UNOFFICIAL REPO - SPECIFICALLY MODIFIED FOR XIAOMI HYPEROS3 PARTITION SCHEME**
+> 
+> **This is NOT an official OrangeFox or TWRP repository.**  
+> This device tree has been **specifically modified** to support Xiaomi HyperOS3 partition scheme changes.  
+> Use at your own risk. Not responsible for bootloops, data loss, or bricked devices.
+
+<p>
+<img src="https://raw.githubusercontent.com/OrangeFoxRecovery/.github/fox/profile/OrangeFox.jpg" width="max-content" height="auto"/>
+</p>
+
 # Common 12.1 device tree for Xiaomi sdm845 devices (codenamed _dipper/polaris_)
 
 ## Suitable for:
